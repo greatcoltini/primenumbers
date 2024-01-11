@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greeting Card</string>
+    <string name="prime_number">Prime Number? </string>
+    <string name="primeoutput">Is this a prime? %s</string>
+</resources>
